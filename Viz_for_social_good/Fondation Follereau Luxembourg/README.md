@@ -1,6 +1,6 @@
 <h1> Follereau Luxembourg Foundation</h1>
 <p> Fondation Follereau Luxembourg (FFL), a Luxembourg-based NGO is committed to the prevention and promotion of the quality of life of the most vulnerable African communities. Since 1966, the foundation has evolved with the times by developing its activities beyond its initial fight against social exclusion in the leprosy communities.  Alongside its trusted partners, FFL supports local, inclusive, and positive initiatives by responding to the needs of local teams in terms of health, education, protection, and emergency. </p>
 
-<h2><a href = "https://www.vizforsocialgood.com/join-a-project/fondation-follereau-luxembourg" target = "_black">Project Information</a></h2>
+<h2><a href = "https://www.vizforsocialgood.com/join-a-project/fondation-follereau-luxembourg"  target="_blank">Project Information</a></h2>
 <p>Our goal is to raise awareness about one or more of the topics FFL works on, to share the details of their work in different axes of intervention over the past years, and to be able to reach a larger audience to obtain donations that help FFL continue their work.</p>
 
