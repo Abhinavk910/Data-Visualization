@@ -4,8 +4,8 @@
 <h2><a href = "https://www.vizforsocialgood.com/join-a-project/fondation-follereau-luxembourg"  target="_blank">Project Information</a></h2>
 <p>Goal is to raise awareness about one or more of the topics FFL works on, to share the details of their work in different axes of intervention over the past years, and to be able to reach a larger audience to obtain donations that help FFL continue their work.</p>
 
-<h2> My Approach</h2>
+<h2><a href = "http://ffl-dashboard.herokuapp.com/"  target="_blank"> My Approach</a></h2>
 My main motive is how the Budget every year distributed in different countries, axis of intervention, projects and beneficiary. I had created interactive plotly dashboard with using little bit CSS and Javascipt. 
-<a href = "http://ffl-dashboard.herokuapp.com/" target = "_blank"> Dashboard </a>
+
 <br>
 ![Alt text](https://github.com/Abhinavk910/Data-Visualization/blob/master/Viz_for_social_good/Fondation%20Follereau%20Luxembourg/assets/Pictures/Capture.PNG?raw=true)
