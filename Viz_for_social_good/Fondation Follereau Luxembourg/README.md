@@ -7,3 +7,4 @@
 <h2> My Approach</h2>
 My main motive is how the Budget every year distributed in different countries, axis of intervention, projects and beneficiary. I had created interactive plotly dashboard with using little bit CSS and Javascipt. 
 <a href = "http://ffl-dashboard.herokuapp.com/" target = "_blank"> Dashboard </a>
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
